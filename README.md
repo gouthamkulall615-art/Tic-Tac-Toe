@@ -1,4 +1,4 @@
-A great README is like a high-quality movie trailer for your code—it should tell people exactly what they’re looking at and why they should care. Since you've finished your Tic Tac Toe project, here is a clean, professional `README.md` file you can copy and paste directly into GitHub.
+
 
 ```markdown
 # Tic Tac Toe 🎮
