@@ -1,49 +1,56 @@
 
+Tic Tac Toe
 
-```markdown
-# Tic Tac Toe 🎮
-
-A sleek, responsive, and interactive **Tic Tac Toe** game built using web technologies. This project demonstrates clean UI design and fundamental JavaScript logic for game state management.
+This is a simple and clean Tic Tac Toe game built using basic web technologies. The focus of this project is on keeping the interface straightforward while implementing solid game logic using JavaScript.
 
 ---
 
-## 🚀 Features
-* **Two-Player Mode:** Play locally with a friend.
-* **Responsive Design:** Fully functional on desktops, tablets, and mobile devices.
-* **Dynamic UI:** Smooth animations and clear indicators for player turns and game results.
-* **Restart Functionality:** Quickly reset the board to start a new match.
+Features
 
-## 🛠️ Built With
-* **HTML5:** Structural layout of the game board.
-* **CSS3:** Custom styling and responsive grid layout.
-* **JavaScript (ES6):** Game logic, win-condition algorithms, and DOM manipulation.
+- Two-player mode for local gameplay
+- Works smoothly across desktop, tablet, and mobile screens
+- Clear visual feedback for turns and results
+- Option to restart the game instantly
 
-## 📂 Project Structure
-```text
-├── index.html   # Main game structure
-├── style.css    # UI styling and layout
+---
+
+Tech Stack
+
+- HTML5 for the structure
+- CSS3 for layout and styling
+- JavaScript (ES6) for game logic and interactions
+
+---
+
+Project Structure
+
+├── index.html   # Main structure of the game
+├── style.css    # Styling and layout
 └── script.js    # Game logic and event handling
-```
-
-## 🎮 How to Play
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/gouthamkulall615-art/tic-tac-toe.git](https://github.com/gouthamkulall615-art/tic-tac-toe.git)
-    ```
-2.  **Open the project:**
-    Simply open `index.html` in any modern web browser.
-3.  **The Rules:**
-    * Players take turns placing their marks (X or O) in an empty 3x3 grid.
-    * The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.
-    * If all 9 squares are full and no player has 3 marks in a row, the game ends in a draw.
 
 ---
 
-## ✍️ Author
-**Goutham Kulal** [GitHub Profile](https://github.com/gouthamkulall615-art)
+How to Run
+
+1. Clone the repository:
+   
+   git clone https://github.com/gouthamkulall615-art/tic-tac-toe.git
+
+2. Open the project:
+   Just open the "index.html" file in any browser.
 
 ---
-*Made with ❤️ and JavaScript.*
-```
 
+How the Game Works
+
+- Two players take turns placing X and O on a 3x3 grid
+- The first player to align three marks in a row (horizontal, vertical, or diagonal) wins
+- If all cells are filled and no one wins, the game ends in a draw
+
+---
+
+Author
+
+Goutham Kulal
+GitHub: https://github.com/gouthamkulall615-art
 
